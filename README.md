@@ -24,7 +24,7 @@
 I'm working on this discord clone to improve my knowledge of **Vuejs** and **Sass** and my skills as a __Front-end developer__.
 You can view the layout of this project by clicking [here](https://discord-clone-two.vercel.app/).
 
-Technology
+Technology:
 
 * [x] [Vuejs](https://vuejs.org/)
 * [x] [Sass](https://sass-lang.com/)
@@ -35,7 +35,7 @@ Technology
 | --- | --- | --- | --- |
 | IE11, Edge | last 5 versions | last 5 versions | last 5 versions |
 
-## ⬇ Installation
+## Installation
 
 You will need [Nodejs](https://nodejs.org/en/) and [git](https://git-scm.com/) installed on your machine. Then, you can run the scripts below:
 
