@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".github/icon.svg" width="200" />
+  <img src=".github/icon.svg" width="150px" />
 </h1>
 
 <p align="center">
@@ -19,35 +19,21 @@
   <img src=".github/screenshot.svg" alt="Exemplo da interface no desktop" style="width: 100%;">
 </div>
 
-## 🛠 Technology
+## Project
 
-- [x] [Vuejs](https://vuejs.org/)
-- [x] [Sass](https://sass-lang.com/)
-
-## 💻 Project
-
-I'm working on this discord clone to improve my knowledge of **Vuejs** and **Sass** and my skills as a **Front-end developer**.
-
-## 🔖 Layout
-
+I'm working on this discord clone to improve my knowledge of **Vuejs** and **Sass** and my skills as a __Front-end developer__.
 You can view the layout of this project by clicking [here](https://discord-clone-two.vercel.app/).
 
-## ⬆ Updates
+Technology
 
-This project is constantly evolving, I am always testing new features on it.
+* [x] [Vuejs](https://vuejs.org/)
+* [x] [Sass](https://sass-lang.com/)
 
-## 🖥 Environment Support
+## Environment Support
 
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Safari |
 | --- | --- | --- | --- |
 | IE11, Edge | last 5 versions | last 5 versions | last 5 versions |
-
-## 💡 Implementation ideas
-
-- [ ] Refactoring
-- [ ] Improve responsiveness
-- [ ] Add new discord features
-- [ ] Add more loyalty
 
 ## ⬇ Installation
 
@@ -69,7 +55,9 @@ $ npm run serve
 # Go to http://localhost:8080
 ```
 
-## 🤔 How to contribute
+## How to contribute
+
+Contributions are always welcome, no matter how large or small.
 
 1. Fork this repository;
 2. Create a branch with your feature: **`git checkout -b my-feature`**;
@@ -78,6 +66,8 @@ $ npm run serve
 
 After the merge of your pull request is done, you can delete your branch.
 
-## 📝 License
+You can report a bug [here](https://github.com/abantes/discord-clone/issues).
+
+## License
 
 This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
